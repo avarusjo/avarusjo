@@ -624,12 +624,12 @@ footer a {
         padding: 10px 0;
     }
 
-    nav.resposnive ul {
+    nav.responsive ul {
         display: block !important;
         text-align: center;
     }
 
-    nav.resposnive ul li {
+    nav.responsive ul li {
         margin: 5px 0;
     }
 
@@ -649,8 +649,9 @@ footer a {
     }
 
     #sobremi .contenedor_foto {
-        max-width: 200px;
+        max-width: 390px;
         margin: auto;
+
     }
 
     #sobremi .contenedor_foto img {
